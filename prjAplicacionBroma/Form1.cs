@@ -8,7 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 /*Jonnier Grajales Alzate
- 12/08/2024*/
+ 12/08/2024
+Aplicaciòn broma*/
 
 namespace prjAplicacionBroma
 {
