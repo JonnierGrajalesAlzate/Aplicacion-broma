@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+/*Jonnier Grajales Alzate
+ 12/08/2024*/
 
 namespace prjAplicacionBroma
 {

@@ -8,3 +8,13 @@ C:\Users\57304\Desktop\APLICACION BROMA\prjAplicacionBroma\prjAplicacionBroma\ob
 C:\Users\57304\Desktop\APLICACION BROMA\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.csproj.CoreCompileInputs.cache
 C:\Users\57304\Desktop\APLICACION BROMA\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.exe
 C:\Users\57304\Desktop\APLICACION BROMA\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.pdb
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\bin\Debug\prjAplicacionBroma.exe.config
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\bin\Debug\prjAplicacionBroma.exe
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\bin\Debug\prjAplicacionBroma.pdb
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.csproj.AssemblyReference.cache
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.Form1.resources
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.Properties.Resources.resources
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.csproj.GenerateResource.cache
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.csproj.CoreCompileInputs.cache
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.exe
+C:\Users\57304\Downloads\prjAplicacionBroma\prjAplicacionBroma\obj\Debug\prjAplicacionBroma.pdb
